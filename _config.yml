@@ -28,9 +28,18 @@ twitter_username: ""
 github_username:  ""
 
 # Build settings
-theme: minima
+theme: jekyll-theme-console
+remote_theme: b2a3e8/jekyll-theme-console
+#remote_theme: pages-themes/primer@v0.6.0
 plugins:
   - jekyll-feed
+    #  - jekyll-remote-theme
+
+#Theme settings
+header_pages:
+  - index.markdown
+  - about.markdown
+footer: "Problem solved. What's next?"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

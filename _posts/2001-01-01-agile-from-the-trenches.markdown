@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Learn the Java Programming Language!"
+title:  "Learn to be Agile!"
 ---
 
 The Agile Manifesto has been released and focus on software delivery as an intelligent process that favours people

@@ -28,7 +28,7 @@ twitter_username: ""
 github_username:  ""
 
 # Build settings
-theme: jekyll-theme-console
+theme: jekyll-theme-minimal
 remote_theme: b2a3e8/jekyll-theme-console
 #remote_theme: pages-themes/primer@v0.6.0
 plugins:

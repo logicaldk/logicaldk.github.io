@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-02-03T12:51:08-06:00</updated><id>/feed.xml</id><title type="html">Logical</title><subtitle>Pragmatic Software Specialist</subtitle><entry><title type="html">Learn Go Programming!</title><link href="/2022/01/01/learn-go.html" rel="alternate" type="text/html" title="Learn Go Programming!" /><published>2022-01-01T00:00:00-06:00</published><updated>2022-01-01T00:00:00-06:00</updated><id>/2022/01/01/learn-go</id><content type="html" xml:base="/2022/01/01/learn-go.html">&lt;p&gt;In collaboration with Lund &amp;amp; Bendsen we are proud to announce our course on Go Programming.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://logb.dk/kurser/introduktion-til-programmering-med-go/&quot;&gt;Find the details here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Topics include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;History of Go&lt;/li&gt;
+  &lt;li&gt;Data structures and Control Flow&lt;/li&gt;
+  &lt;li&gt;Go libraries&lt;/li&gt;
+  &lt;li&gt;Functions and Parameters&lt;/li&gt;
+  &lt;li&gt;Advanced function semantics&lt;/li&gt;
+  &lt;li&gt;Objects and Receiver types&lt;/li&gt;
+  &lt;li&gt;Interfaces and type assertions&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The course span 2 days, giving you enough insight to understand and program Go.&lt;/p&gt;</content><author><name></name></author><summary type="html">In collaboration with Lund &amp;amp; Bendsen we are proud to announce our course on Go Programming.</summary></entry><entry><title type="html">Learn Java 8-11-17!</title><link href="/2021/01/01/learn-java-8-11-17.html" rel="alternate" type="text/html" title="Learn Java 8-11-17!" /><published>2021-01-01T00:00:00-06:00</published><updated>2021-01-01T00:00:00-06:00</updated><id>/2021/01/01/learn-java-8-11-17</id><content type="html" xml:base="/2021/01/01/learn-java-8-11-17.html">&lt;h2 id=&quot;java-8&quot;&gt;Java 8&lt;/h2&gt;
+
+&lt;p&gt;Using Java 8’s New Features&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Course Objectives:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;font size=&quot;2&quot;&gt;Be familiar with the additions to Java interfaces&lt;/font&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;font size=&quot;2&quot;&gt;Understand and use functional interfaces&lt;/font&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;font size=&quot;2&quot;&gt;Understand lambda expressions and method references, and use them to pass behavior (methods)&lt;/font&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;font size=&quot;2&quot;&gt;Learn about the pre-defined functional interfaces, and use them with lambda expressions&lt;/font&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;font size=&quot;2&quot;&gt;Understand and use the Stream API&lt;/font&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;font size=&quot;2&quot;&gt;Process collections using streams, including chaining operations and using collectors&lt;/font&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;font size=&quot;2&quot;&gt;Understand and deal with the issues of parallel processing&lt;/font&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;font size=&quot;2&quot;&gt;Learn and use the new Data/Time API&lt;/font&gt;
+    &lt;p&gt; &lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Format: Instructor led workshop
+Time: 2 days&lt;/p&gt;
+
+&lt;h2 id=&quot;java-11&quot;&gt;Java 11&lt;/h2&gt;
+
+&lt;p&gt;Java Modules and New Features (Java 11+)&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Course Objectives:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;font size=&quot;2&quot;&gt;Understand the new Java release cycle and Long Term Support (LTS) releases&lt;/font&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;font size=&quot;2&quot;&gt;Create and use Java modules, understanding module descriptors, modular JARs, exports and dependencies, and the modulepath&lt;/font&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;font size=&quot;2&quot;&gt;Migrate classpath-based applications to Java 11, understanding the stages of migration and options available&lt;/font&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;font size=&quot;2&quot;&gt;Use local-variable type inference with var, including lambda parameters&lt;/font&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;font size=&quot;2&quot;&gt;Use the HTTP Client to access HTTP resources from Java, as well as understand the other options available&lt;/font&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;font size=&quot;2&quot;&gt;Work with various HTTP request and response types, using both synchronous and asynchronous techniques&lt;/font&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;font size=&quot;2&quot;&gt;Outline the new factory methods in Java Collections and understand native immutable collections&lt;/font&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;font size=&quot;2&quot;&gt;Understand the characteristics and benefits of custom runtime images&lt;/font&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;font size=&quot;2&quot;&gt;Explore some of the more important additional features and APIs, including new features for interfaces, the Process API, new JDK tools and command line options&lt;/font&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;Format: Instructor led workshop
+Time: 2 days&lt;/p&gt;</content><author><name></name></author><summary type="html">Java 8</summary></entry><entry><title type="html">Learn Application Management!</title><link href="/2020/01/01/learn-apm.html" rel="alternate" type="text/html" title="Learn Application Management!" /><published>2020-01-01T00:00:00-06:00</published><updated>2020-01-01T00:00:00-06:00</updated><id>/2020/01/01/learn-apm</id><content type="html" xml:base="/2020/01/01/learn-apm.html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Learn Kubernetes!</title><link href="/2019/01/01/learn-kubernetes.html" rel="alternate" type="text/html" title="Learn Kubernetes!" /><published>2019-01-01T00:00:00-06:00</published><updated>2019-01-01T00:00:00-06:00</updated><id>/2019/01/01/learn-kubernetes</id><content type="html" xml:base="/2019/01/01/learn-kubernetes.html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Learn Spring Boot!</title><link href="/2018/01/01/learn-spring-boot.html" rel="alternate" type="text/html" title="Learn Spring Boot!" /><published>2018-01-01T00:00:00-06:00</published><updated>2018-01-01T00:00:00-06:00</updated><id>/2018/01/01/learn-spring-boot</id><content type="html" xml:base="/2018/01/01/learn-spring-boot.html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Learn Maven and Gradle!</title><link href="/2016/01/01/learn-mvn-and-gradle.html" rel="alternate" type="text/html" title="Learn Maven and Gradle!" /><published>2016-01-01T00:00:00-06:00</published><updated>2016-01-01T00:00:00-06:00</updated><id>/2016/01/01/learn-mvn-and-gradle</id><content type="html" xml:base="/2016/01/01/learn-mvn-and-gradle.html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Learn Docker!</title><link href="/2015/01/01/learn-docker.html" rel="alternate" type="text/html" title="Learn Docker!" /><published>2015-01-01T00:00:00-06:00</published><updated>2015-01-01T00:00:00-06:00</updated><id>/2015/01/01/learn-docker</id><content type="html" xml:base="/2015/01/01/learn-docker.html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Learn Groovy and Grails!</title><link href="/2011/01/01/learn-groovy-and-grails.html" rel="alternate" type="text/html" title="Learn Groovy and Grails!" /><published>2011-01-01T00:00:00-06:00</published><updated>2011-01-01T00:00:00-06:00</updated><id>/2011/01/01/learn-groovy-and-grails</id><content type="html" xml:base="/2011/01/01/learn-groovy-and-grails.html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Learn OSGi and Eclipse RCP!</title><link href="/2010/01/01/learn-osgi-and-rcp.html" rel="alternate" type="text/html" title="Learn OSGi and Eclipse RCP!" /><published>2010-01-01T00:00:00-06:00</published><updated>2010-01-01T00:00:00-06:00</updated><id>/2010/01/01/learn-osgi-and-rcp</id><content type="html" xml:base="/2010/01/01/learn-osgi-and-rcp.html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Learn J2EE Performance Optimization!</title><link href="/2008/01/01/learn-performance-optimization.html" rel="alternate" type="text/html" title="Learn J2EE Performance Optimization!" /><published>2008-01-01T00:00:00-06:00</published><updated>2008-01-01T00:00:00-06:00</updated><id>/2008/01/01/learn-performance-optimization</id><content type="html" xml:base="/2008/01/01/learn-performance-optimization.html">&lt;p&gt;In collaboration with Lund &amp;amp; Bendsen we have are proud to announce our new course in
+Performance Optimization of J2EE Applications, and the role of non-functional requirements&lt;/p&gt;
+
+&lt;p&gt;Learn about&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Concurrency requirements and SLA&lt;/li&gt;
+  &lt;li&gt;How to build valid performance tests&lt;/li&gt;
+  &lt;li&gt;How to monitor performance&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">In collaboration with Lund &amp;amp; Bendsen we have are proud to announce our new course in Performance Optimization of J2EE Applications, and the role of non-functional requirements</summary></entry></feed>

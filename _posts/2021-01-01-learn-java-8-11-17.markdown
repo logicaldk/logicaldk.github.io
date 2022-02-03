@@ -2,3 +2,44 @@
 layout: post
 title:  "Learn Java 8-11-17!"
 ---
+
+
+## Java 8
+
+Using Java 8's New Features
+
+*Course Objectives:*
+
+* <font size="2">Be familiar with the additions to Java interfaces</font>
+* <font size="2">Understand and use functional interfaces</font>
+* <font size="2">Understand lambda expressions and method references, and use them to pass behavior (methods)</font>
+* <font size="2">Learn about the pre-defined functional interfaces, and use them with lambda expressions</font>
+* <font size="2">Understand and use the Stream API</font>
+* <font size="2">Process collections using streams, including chaining operations and using collectors</font>
+* <font size="2">Understand and deal with the issues of parallel processing</font>
+* <font size="2">Learn and use the new Data/Time API</font>
+&nbsp;
+
+Format: Instructor led workshop
+Time: 2 days
+
+## Java 11
+
+Java Modules and New Features (Java 11+)
+
+*Course Objectives:*
+
+* <font size="2">Understand the new Java release cycle and Long Term Support (LTS) releases</font>
+* <font size="2">Create and use Java modules, understanding module descriptors, modular JARs, exports and dependencies, and the modulepath</font>
+* <font size="2">Migrate classpath-based applications to Java 11, understanding the stages of migration and options available</font>
+* <font size="2">Use local-variable type inference with var, including lambda parameters</font>
+* <font size="2">Use the HTTP Client to access HTTP resources from Java, as well as understand the other options available</font>
+* <font size="2">Work with various HTTP request and response types, using both synchronous and asynchronous techniques</font>
+* <font size="2">Outline the new factory methods in Java Collections and understand native immutable collections</font>
+* <font size="2">Understand the characteristics and benefits of custom runtime images</font>
+* <font size="2">Explore some of the more important additional features and APIs, including new features for interfaces, the Process API, new JDK tools and command line options</font>
+
+&nbsp;
+
+Format: Instructor led workshop
+Time: 2 days

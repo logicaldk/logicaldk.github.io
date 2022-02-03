@@ -33,7 +33,7 @@ remote_theme: b2a3e8/jekyll-theme-console
 #remote_theme: pages-themes/primer@v0.6.0
 plugins:
   - jekyll-feed
-    #  - jekyll-remote-theme
+    jekyll-remote-theme
 
 #Theme settings
 style: hacker #dark,light,hacker
